@@ -1,0 +1,9 @@
+F:\Donkey Kong ProjectX\Donkey Kong ProjectX\bin\Debug\Donkey Kong ProjectX.exe.config
+F:\Donkey Kong ProjectX\Donkey Kong ProjectX\bin\Debug\Donkey Kong ProjectX.exe
+F:\Donkey Kong ProjectX\Donkey Kong ProjectX\bin\Debug\Donkey Kong ProjectX.pdb
+F:\Donkey Kong ProjectX\Donkey Kong ProjectX\obj\Debug\Donkey_Kong_ProjectX.Form1.resources
+F:\Donkey Kong ProjectX\Donkey Kong ProjectX\obj\Debug\Donkey_Kong_ProjectX.Properties.Resources.resources
+F:\Donkey Kong ProjectX\Donkey Kong ProjectX\obj\Debug\Donkey Kong ProjectX.csproj.GenerateResource.cache
+F:\Donkey Kong ProjectX\Donkey Kong ProjectX\obj\Debug\Donkey Kong ProjectX.exe
+F:\Donkey Kong ProjectX\Donkey Kong ProjectX\obj\Debug\Donkey Kong ProjectX.pdb
+F:\Donkey Kong ProjectX\Donkey Kong ProjectX\obj\Debug\Donkey Kong ProjectX.csprojAssemblyReference.cache
